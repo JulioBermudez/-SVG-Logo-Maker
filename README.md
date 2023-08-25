@@ -15,7 +15,7 @@ The Readme file is often the first file that the users read. It is a text file t
 
 ## Usage
 
-<a href="#">Video Showing SVG-Logo-Maker Functionability</a>
+<a href="https://drive.google.com/file/d/1r1YjwZOPMDN4KU7w12l25OOX76Z2G-cM/view">Video Showing SVG-Logo-Maker Functionability</a>
 
 ![SVG-Logo-Maker](assets/images/screenshot.gif)
 
