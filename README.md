@@ -17,7 +17,11 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 <a href="https://drive.google.com/file/d/1r1YjwZOPMDN4KU7w12l25OOX76Z2G-cM/view">Link to SVG-Logo-Maker Functionability Video</a>
 
+<<<<<<< HEAD
 ![SVG-Logo-Maker](./examples/video.gif)
+=======
+
+>>>>>>> 8703846da3893cf2f60b6afffa16aa988a50135f
 
 ## Licence
 
