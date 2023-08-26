@@ -11,13 +11,13 @@
 
 ## Description
 
-The Readme file is often the first file that the users read. It is a text file that contains information for the user about the software, project, code, or it might contain instructions, help, or details about the patches or updates. In This case This app allows the user to create automatically a README file.
+The application enables users to enter inputs into a inquirer prompt in order to generate a logo “logo.svg” file which contains the users desired results as an SVG image.
 
 ## Usage
 
-<a href="https://drive.google.com/file/d/1r1YjwZOPMDN4KU7w12l25OOX76Z2G-cM/view">Video Showing SVG-Logo-Maker Functionability</a>
+<a href="https://drive.google.com/file/d/1r1YjwZOPMDN4KU7w12l25OOX76Z2G-cM/view">Link to SVG-Logo-Maker Functionability Video</a>
 
-![SVG-Logo-Maker](assets/images/screenshot.gif)
+![SVG-Logo-Maker](./examples/video.gif)
 
 ## Licence
 
